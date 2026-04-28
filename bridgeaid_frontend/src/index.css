@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand Colors */
+/* Teal Shades */
+  --color-teal-50: #D6EDF1;
+  --color-teal-200: #8EC9D6;
+  --color-teal-400: #2E8BA0;
+  --color-teal-600: #0F4C5C;
+  --color-teal-900: #082E38;
+
+  /* Neutral Palette */
+  --color-off-white: #F7F9FA;
+  --color-charcoal: #1C2B33;
+  --color-teal-tint: #E0EFF2; 
+  
+  /* Fonts */
+  --font-grotesk: 'Space Grotesk', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
