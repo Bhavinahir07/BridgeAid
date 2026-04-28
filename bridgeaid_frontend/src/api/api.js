@@ -1,4 +1,4 @@
-const BASE_URL = 'http://127.0.0.1:8000/api';
+const BASE_URL = 'https://virtuous-beauty-production-09a4.up.railway.app/api';
 
 const getToken = () => localStorage.getItem('access_token');
 
